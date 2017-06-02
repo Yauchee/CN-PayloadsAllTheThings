@@ -100,6 +100,6 @@ use first two signs from hash as folder name inside pristine/ directory (94 in t
 create complete path, which will be: http://server/path_to_vulnerable_site/.svn/pristine/94/945a60e68acc693fcb74abadb588aac1a9135f62.svn-base
 
 
-## Thanks to
+## 感谢
 * bl4de, https://github.com/bl4de/research/tree/master/hidden_directories_leaks
 * bl4de, https://github.com/bl4de/security-tools/tree/master/diggit
